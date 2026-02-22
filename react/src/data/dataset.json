@@ -1,0 +1,5297 @@
+[
+  {
+    "sentence": "I think we might need to address this soon.",
+    "toneSig": "¡10.000",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We should probably keep an eye on it.",
+    "toneSig": "¡10.001",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It might be time to look into this.",
+    "toneSig": "¡10.002",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There could be a slight issue developing.",
+    "toneSig": "¡10.003",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m starting to get a little concerned.",
+    "toneSig": "¡10.004",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We should maybe check on that again.",
+    "toneSig": "¡10.005",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I don’t want to alarm anyone, but something feels off.",
+    "toneSig": "¡10.006",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m not sure if this is normal.",
+    "toneSig": "¡10.007",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Have we double-checked everything?",
+    "toneSig": "¡10.008",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There’s a chance we’ve missed something.",
+    "toneSig": "¡10.009",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I'm feeling a bit uneasy about the outcome.",
+    "toneSig": "¡10.010",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Maybe it’s just me, but things seem a little off-track.",
+    "toneSig": "¡10.011",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Let’s not wait too long to make a move.",
+    "toneSig": "¡10.012",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Do we have a backup plan?",
+    "toneSig": "¡10.013",
+    "label": "block_01"
+  },
+  {
+    "sentence": "What if things don’t go as expected?",
+    "toneSig": "¡10.014",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I really hope this isn’t spiraling.",
+    "toneSig": "¡10.015",
+    "label": "block_01"
+  },
+  {
+    "sentence": "The timing here feels a little too tight.",
+    "toneSig": "¡10.016",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It’s starting to feel more urgent than I thought.",
+    "toneSig": "¡10.017",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need to act, sooner rather than later.",
+    "toneSig": "¡10.018",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m getting worried we’re falling behind.",
+    "toneSig": "¡10.019",
+    "label": "block_01"
+  },
+  {
+    "sentence": "The margin for error is shrinking quickly.",
+    "toneSig": "¡10.020",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't stop thinking about this.",
+    "toneSig": "¡10.021",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We’re cutting it close, very close.",
+    "toneSig": "¡10.022",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is weighing on me more than I expected.",
+    "toneSig": "¡10.023",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I keep checking over everything again and again.",
+    "toneSig": "¡10.024",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I just want to make sure we're ready for anything.",
+    "toneSig": "¡10.025",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Is this too late already?",
+    "toneSig": "¡10.026",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This delay is making me nervous.",
+    "toneSig": "¡10.027",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why hasn’t anyone followed up yet?",
+    "toneSig": "¡10.028",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We should have gotten a response by now.",
+    "toneSig": "¡10.029",
+    "label": "block_01"
+  },
+  {
+    "sentence": "What if we’re already out of time?",
+    "toneSig": "¡10.030",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There’s no room for another mistake.",
+    "toneSig": "¡10.031",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We absolutely need clarity, now.",
+    "toneSig": "¡10.032",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why is it taking so long?",
+    "toneSig": "¡10.033",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I think we’ve got a serious problem here.",
+    "toneSig": "¡10.034",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need to fix this before it spreads.",
+    "toneSig": "¡10.035",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This could escalate fast.",
+    "toneSig": "¡10.036",
+    "label": "block_01"
+  },
+  {
+    "sentence": "No one’s responding—and that’s a huge red flag.",
+    "toneSig": "¡10.037",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everything feels too quiet.",
+    "toneSig": "¡10.038",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m starting to panic just a little.",
+    "toneSig": "¡10.039",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need confirmation, immediately.",
+    "toneSig": "¡10.040",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Please tell me someone’s handling this.",
+    "toneSig": "¡10.041",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Something is definitely wrong.",
+    "toneSig": "¡10.042",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We're not ready for this, are we?",
+    "toneSig": "¡10.043",
+    "label": "block_01"
+  },
+  {
+    "sentence": "There’s no cushion left for error.",
+    "toneSig": "¡10.044",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need full focus—right now.",
+    "toneSig": "¡10.045",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This isn’t just a hiccup anymore.",
+    "toneSig": "¡10.046",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It’s not under control.",
+    "toneSig": "¡10.047",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't shake the feeling that something terrible is brewing.",
+    "toneSig": "¡10.048",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why is no one treating this with urgency?",
+    "toneSig": "¡10.049",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We’re beyond the point of comfort here.",
+    "toneSig": "¡10.050",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I think we're in real trouble.",
+    "toneSig": "¡10.051",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everything's slipping out of our hands.",
+    "toneSig": "¡10.052",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why haven’t we escalated this?",
+    "toneSig": "¡10.053",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need to sound the alarm.",
+    "toneSig": "¡10.054",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I don’t think we’re going to make it without drastic action.",
+    "toneSig": "¡10.055",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It’s worse than we thought.",
+    "toneSig": "¡10.056",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why isn’t anyone responding?",
+    "toneSig": "¡10.057",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m on edge and it’s not just nerves.",
+    "toneSig": "¡10.058",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is serious—really serious.",
+    "toneSig": "¡10.059",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We need someone to take control, now.",
+    "toneSig": "¡10.060",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We're hanging by a thread.",
+    "toneSig": "¡10.061",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m freaking out a little bit here.",
+    "toneSig": "¡10.062",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Someone needs to step up right away.",
+    "toneSig": "¡10.063",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This has gone too far.",
+    "toneSig": "¡10.064",
+    "label": "block_01"
+  },
+  {
+    "sentence": "No one seems to grasp the gravity of this!",
+    "toneSig": "¡10.065",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This should've been fixed yesterday!",
+    "toneSig": "¡10.066",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't breathe—this is too much.",
+    "toneSig": "¡10.067",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We are officially in crisis mode.",
+    "toneSig": "¡10.068",
+    "label": "block_01"
+  },
+  {
+    "sentence": "It's spiraling—fast.",
+    "toneSig": "¡10.069",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I'm not okay with how this is unfolding.",
+    "toneSig": "¡10.070",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Every second counts now!",
+    "toneSig": "¡10.071",
+    "label": "block_01"
+  },
+  {
+    "sentence": "They HAVE to do something NOW!",
+    "toneSig": "¡10.072",
+    "label": "block_01"
+  },
+  {
+    "sentence": "People should be running to fix this!",
+    "toneSig": "¡10.073",
+    "label": "block_01"
+  },
+  {
+    "sentence": "If we wait another minute, it's over!",
+    "toneSig": "¡10.074",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is red-alert level panic.",
+    "toneSig": "¡10.075",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Sound every alarm—this is a disaster.",
+    "toneSig": "¡10.076",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't even think straight—do something!",
+    "toneSig": "¡10.077",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We're in freefall!",
+    "toneSig": "¡10.078",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WHY IS THIS STILL HAPPENING?",
+    "toneSig": "¡10.079",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everyone needs to mobilize RIGHT THIS SECOND!",
+    "toneSig": "¡10.080",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This cannot wait even a moment longer!",
+    "toneSig": "¡10.081",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Do whatever it takes—JUST FIX IT!",
+    "toneSig": "¡10.082",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We’re in DEFCON 1!",
+    "toneSig": "¡10.083",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This is code black!",
+    "toneSig": "¡10.084",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I am literally shaking!",
+    "toneSig": "¡10.085",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WHERE IS THE RESPONSE TEAM?",
+    "toneSig": "¡10.086",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I’m about to lose it completely!",
+    "toneSig": "¡10.087",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Everything’s falling apart and nobody is moving!",
+    "toneSig": "¡10.088",
+    "label": "block_01"
+  },
+  {
+    "sentence": "We are seconds away from catastrophe!",
+    "toneSig": "¡10.089",
+    "label": "block_01"
+  },
+  {
+    "sentence": "Why is no one screaming about this?!",
+    "toneSig": "¡10.090",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I can't believe we're still talking!",
+    "toneSig": "¡10.091",
+    "label": "block_01"
+  },
+  {
+    "sentence": "EVERYTHING IS ON FIRE!",
+    "toneSig": "¡10.092",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WHERE IS THE EMERGENCY ACTION?",
+    "toneSig": "¡10.093",
+    "label": "block_01"
+  },
+  {
+    "sentence": "IT'S ALREADY TOO LATE!",
+    "toneSig": "¡10.094",
+    "label": "block_01"
+  },
+  {
+    "sentence": "THIS IS A FULL-BLOWN CRISIS!",
+    "toneSig": "¡10.095",
+    "label": "block_01"
+  },
+  {
+    "sentence": "I CAN’T HANDLE THIS!",
+    "toneSig": "¡10.096",
+    "label": "block_01"
+  },
+  {
+    "sentence": "PLEASE—SOMEONE DO SOMETHING!",
+    "toneSig": "¡10.097",
+    "label": "block_01"
+  },
+  {
+    "sentence": "DO YOU NOT SEE WHAT'S HAPPENING?",
+    "toneSig": "¡10.098",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WE HAVE TO STOP THIS RIGHT NOW!",
+    "toneSig": "¡10.099",
+    "label": "block_01"
+  },
+  {
+    "sentence": "IT’S COLLAPSING IN REAL TIME!",
+    "toneSig": "¡10.100",
+    "label": "block_01"
+  },
+  {
+    "sentence": "WE ARE NOT OKAY!",
+    "toneSig": "¡10.101",
+    "label": "block_01"
+  },
+  {
+    "sentence": "HELP! HELP! HELP!",
+    "toneSig": "¡10.102",
+    "label": "block_01"
+  },
+  {
+    "sentence": "This looks manageable.",
+    "toneSig": "¡11.001",
+    "label": "block_02"
+  },
+  {
+    "sentence": "I’m sure we’ll find a solution.",
+    "toneSig": "¡11.002",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s take it step by step.",
+    "toneSig": "¡11.003",
+    "label": "block_02"
+  },
+  {
+    "sentence": "No need to rush—everything’s under control.",
+    "toneSig": "¡11.004",
+    "label": "block_02"
+  },
+  {
+    "sentence": "It’s a bit unclear, but we’ve handled worse.",
+    "toneSig": "¡11.005",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ll adapt as needed.",
+    "toneSig": "¡11.006",
+    "label": "block_02"
+  },
+  {
+    "sentence": "There’s plenty of room to maneuver.",
+    "toneSig": "¡11.007",
+    "label": "block_02"
+  },
+  {
+    "sentence": "No cause for concern at this stage.",
+    "toneSig": "¡11.008",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s stay focused and methodical.",
+    "toneSig": "¡11.009",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve got the skill set to figure this out.",
+    "toneSig": "¡11.010",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Confidence is quiet—and we’ve got it.",
+    "toneSig": "¡11.011",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s trust the process.",
+    "toneSig": "¡11.012",
+    "label": "block_02"
+  },
+  {
+    "sentence": "All signs point to steady progress.",
+    "toneSig": "¡11.013",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve mapped this out well.",
+    "toneSig": "¡11.014",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We're making thoughtful decisions.",
+    "toneSig": "¡11.015",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s not get distracted—we’ve got this.",
+    "toneSig": "¡11.016",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We know what matters here.",
+    "toneSig": "¡11.017",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Everything’s moving in the right direction.",
+    "toneSig": "¡11.018",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re aligned and prepared.",
+    "toneSig": "¡11.019",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Momentum is building steadily.",
+    "toneSig": "¡11.020",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve planned for complexity.",
+    "toneSig": "¡11.021",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s keep the rhythm going.",
+    "toneSig": "¡11.022",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This is a calculated move, and it’s working.",
+    "toneSig": "¡11.023",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve accounted for all the variables.",
+    "toneSig": "¡11.024",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Every detail’s been considered.",
+    "toneSig": "¡11.025",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We're not guessing—we know.",
+    "toneSig": "¡11.026",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This feels solid and sustainable.",
+    "toneSig": "¡11.027",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve earned our confidence.",
+    "toneSig": "¡11.028",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The system is holding up beautifully.",
+    "toneSig": "¡11.029",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re building certainty, not just optimism.",
+    "toneSig": "¡11.030",
+    "label": "block_02"
+  },
+  {
+    "sentence": "There’s a sense of deliberate calm here.",
+    "toneSig": "¡11.031",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re not chasing—we’re leading.",
+    "toneSig": "¡11.032",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s lean into our expertise.",
+    "toneSig": "¡11.033",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re guiding this precisely.",
+    "toneSig": "¡11.034",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This isn’t luck—it’s strategy.",
+    "toneSig": "¡11.035",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re anchored and adaptable.",
+    "toneSig": "¡11.036",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The foundation is strong.",
+    "toneSig": "¡11.037",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve seen tougher, and we’ve prevailed.",
+    "toneSig": "¡11.038",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This is well within our capabilities.",
+    "toneSig": "¡11.039",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re not shaken—we’re sharpening.",
+    "toneSig": "¡11.040",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Every signal says we’re on track.",
+    "toneSig": "¡11.041",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Trust in execution—it’s unfolding as expected.",
+    "toneSig": "¡11.042",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve practiced this scenario.",
+    "toneSig": "¡11.043",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We are the stability in the chaos.",
+    "toneSig": "¡11.044",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s shift gears with clarity.",
+    "toneSig": "¡11.045",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Everything's flowing as planned.",
+    "toneSig": "¡11.046",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The confidence is earned, not assumed.",
+    "toneSig": "¡11.047",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s keep our composure—it’s contagious.",
+    "toneSig": "¡11.048",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’re unwavering in purpose.",
+    "toneSig": "¡11.049",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Even the curveballs feel familiar.",
+    "toneSig": "¡11.050",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Pressure’s rising, but we’re ready.",
+    "toneSig": "¡11.051",
+    "label": "block_02"
+  },
+  {
+    "sentence": "It’s getting tighter, and we’re growing sharper.",
+    "toneSig": "¡11.052",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We're stepping forward without hesitation.",
+    "toneSig": "¡11.053",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This is a showcase of calm control.",
+    "toneSig": "¡11.054",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Stress is just fuel for focus now.",
+    "toneSig": "¡11.055",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We are commanding the pace.",
+    "toneSig": "¡11.056",
+    "label": "block_02"
+  },
+  {
+    "sentence": "No need for noise—just action.",
+    "toneSig": "¡11.057",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Confidence isn’t volume—it’s precision.",
+    "toneSig": "¡11.058",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s elevate the tempo slightly.",
+    "toneSig": "¡11.059",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We're accelerating with certainty.",
+    "toneSig": "¡11.060",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The tension speaks to the importance, not the threat.",
+    "toneSig": "¡11.061",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Our clarity cuts through complexity.",
+    "toneSig": "¡11.062",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s rise to meet this demand—no hesitation.",
+    "toneSig": "¡11.063",
+    "label": "block_02"
+  },
+  {
+    "sentence": "It’s game time, and we’re locked in.",
+    "toneSig": "¡11.064",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We’ve trained for this momentum shift.",
+    "toneSig": "¡11.065",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Composure is our competitive edge.",
+    "toneSig": "¡11.066",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Even as urgency builds, calm leads.",
+    "toneSig": "¡11.067",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We are calm in motion, decisive in strategy.",
+    "toneSig": "¡11.068",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Intensity matches readiness now.",
+    "toneSig": "¡11.069",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Focus is sharpening—every second counts.",
+    "toneSig": "¡11.070",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We are unshaken by rising stakes.",
+    "toneSig": "¡11.071",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Our calm is louder than the pressure.",
+    "toneSig": "¡11.072",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s activate every system—we’re precise.",
+    "toneSig": "¡11.073",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Now we move with complete certainty.",
+    "toneSig": "¡11.074",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Rapid decisions, measured minds.",
+    "toneSig": "¡11.075",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The pace quickens—we lead with poise.",
+    "toneSig": "¡11.076",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Confidence becomes urgency—without panic.",
+    "toneSig": "¡11.077",
+    "label": "block_02"
+  },
+  {
+    "sentence": "No flinch, no falter—only execution.",
+    "toneSig": "¡11.078",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This is fast, but it’s familiar.",
+    "toneSig": "¡11.079",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Stakes climb—we stay composed.",
+    "toneSig": "¡11.080",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Everything’s in motion and we’re guiding it.",
+    "toneSig": "¡11.081",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Let’s answer this escalation with precision.",
+    "toneSig": "¡11.082",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Timing is critical—we are ready.",
+    "toneSig": "¡11.083",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Urgency, not fear—we know the map.",
+    "toneSig": "¡11.084",
+    "label": "block_02"
+  },
+  {
+    "sentence": "We are the calm inside the storm.",
+    "toneSig": "¡11.085",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This moment demands clarity—we deliver.",
+    "toneSig": "¡11.086",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Every variable points to swift response.",
+    "toneSig": "¡11.087",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Execute now—with full awareness.",
+    "toneSig": "¡11.088",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Acceleration meets assurance.",
+    "toneSig": "¡11.089",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Commanding through complexity.",
+    "toneSig": "¡11.090",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Eyes open, hands steady.",
+    "toneSig": "¡11.091",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Push forward—we’re aligned.",
+    "toneSig": "¡11.092",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Activate with certainty.",
+    "toneSig": "¡11.093",
+    "label": "block_02"
+  },
+  {
+    "sentence": "All systems go—calm remains.",
+    "toneSig": "¡11.094",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Urgency echoes our resolve.",
+    "toneSig": "¡11.095",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Move decisively—this is our moment.",
+    "toneSig": "¡11.096",
+    "label": "block_02"
+  },
+  {
+    "sentence": "There’s fire under our focus now.",
+    "toneSig": "¡11.097",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Nothing uncertain about this pace.",
+    "toneSig": "¡11.098",
+    "label": "block_02"
+  },
+  {
+    "sentence": "This is decisive action, not reaction.",
+    "toneSig": "¡11.099",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Zero panic, total precision.",
+    "toneSig": "¡11.100",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The rhythm is urgent, our tone unwavering.",
+    "toneSig": "¡11.101",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Trust is louder than chaos.",
+    "toneSig": "¡11.102",
+    "label": "block_02"
+  },
+  {
+    "sentence": "The world may rush—we remain composed.",
+    "toneSig": "¡11.103",
+    "label": "block_02"
+  },
+  {
+    "sentence": "Full-speed certainty—right now.",
+    "toneSig": "¡11.104",
+    "label": "block_02"
+  },
+  {
+    "sentence": "All instinct, all intention—go.",
+    "toneSig": "¡11.105",
+    "label": "block_02"
+  },
+  {
+    "sentence": "So what's going on here?",
+    "toneSig": "¡12.000",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I suppose that could be worth a glance.",
+    "toneSig": "¡12.001",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I might take a closer look, just out of curiosity.",
+    "toneSig": "¡12.002",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Hmm, that’s slightly unusual.",
+    "toneSig": "¡12.003",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This looks like it could be interesting.",
+    "toneSig": "¡12.004",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Let me just peek at this for a moment.",
+    "toneSig": "¡12.005",
+    "label": "block_03"
+  },
+  {
+    "sentence": "What happens if I press this button?",
+    "toneSig": "¡12.006",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Okay, now I'm mildly intrigued.",
+    "toneSig": "¡12.007",
+    "label": "block_03"
+  },
+  {
+    "sentence": "That seems... not boring.",
+    "toneSig": "¡12.008",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I wonder why it was set up that way.",
+    "toneSig": "¡12.009",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Is there a reason this works like that?",
+    "toneSig": "¡12.010",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I didn't expect that outcome—what’s behind it?",
+    "toneSig": "¡12.011",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's something subtle happening here.",
+    "toneSig": "¡12.012",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Wait, this pattern looks familiar.",
+    "toneSig": "¡12.013",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Let’s see if there’s more to this than meets the eye.",
+    "toneSig": "¡12.014",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Could there be another layer I’m not seeing?",
+    "toneSig": "¡12.015",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Maybe I missed a key detail earlier.",
+    "toneSig": "¡12.016",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m starting to feel like this has a story.",
+    "toneSig": "¡12.017",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s quiet, but there’s something curious here.",
+    "toneSig": "¡12.018",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Hmm… what’s the logic behind this setup?",
+    "toneSig": "¡12.019",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This could be smarter than I thought.",
+    "toneSig": "¡12.020",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Let’s dig in just a bit further.",
+    "toneSig": "¡12.021",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Okay, this warrants a second pass.",
+    "toneSig": "¡12.022",
+    "label": "block_03"
+  },
+  {
+    "sentence": "The more I look, the more questions pop up.",
+    "toneSig": "¡12.023",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s subtle, but it’s pulling me in.",
+    "toneSig": "¡12.024",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I wonder who thought of doing it this way.",
+    "toneSig": "¡12.025",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This structure is oddly satisfying.",
+    "toneSig": "¡12.026",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I want to know the 'why' behind this.",
+    "toneSig": "¡12.027",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s a quiet brilliance to it.",
+    "toneSig": "¡12.028",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I bet there’s a quirky backstory involved.",
+    "toneSig": "¡12.029",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s something oddly compelling here.",
+    "toneSig": "¡12.030",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Now I’m officially intrigued.",
+    "toneSig": "¡12.031",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Is anyone else noticing this?",
+    "toneSig": "¡12.032",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This detail is too specific to be random.",
+    "toneSig": "¡12.033",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s giving off 'hidden genius' energy.",
+    "toneSig": "¡12.034",
+    "label": "block_03"
+  },
+  {
+    "sentence": "So many tiny choices—each feels intentional.",
+    "toneSig": "¡12.035",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I can't stop thinking about what led to this moment.",
+    "toneSig": "¡12.036",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m smiling just imagining the thinking behind it.",
+    "toneSig": "¡12.037",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This has charming layers I didn’t expect.",
+    "toneSig": "¡12.038",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I feel like there’s a clever twist waiting to be found.",
+    "toneSig": "¡12.039",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like a breadcrumb trail—where does it lead?",
+    "toneSig": "¡12.040",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I need to unpack this whole system now.",
+    "toneSig": "¡12.041",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's got to be some wild logic at work here.",
+    "toneSig": "¡12.042",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Whoever made this clearly had fun with it.",
+    "toneSig": "¡12.043",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s almost begging me to figure it out.",
+    "toneSig": "¡12.044",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is an itch I absolutely must scratch.",
+    "toneSig": "¡12.045",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Okay, I’m hooked—tell me everything!",
+    "toneSig": "¡12.046",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This rabbit hole is calling my name.",
+    "toneSig": "¡12.047",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I can sense delightful weirdness just below the surface.",
+    "toneSig": "¡12.048",
+    "label": "block_03"
+  },
+  {
+    "sentence": "The curiosity levels have officially spiked.",
+    "toneSig": "¡12.049",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I have questions—lots of them.",
+    "toneSig": "¡12.050",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is the start of a glorious unraveling, isn’t it?",
+    "toneSig": "¡12.051",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Everything here is delightfully suspicious.",
+    "toneSig": "¡12.052",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s something magical happening and I want in.",
+    "toneSig": "¡12.053",
+    "label": "block_03"
+  },
+  {
+    "sentence": "What inspired this chaos—and can I meet them?",
+    "toneSig": "¡12.054",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Every piece feels like part of a larger puzzle.",
+    "toneSig": "¡12.055",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m vibrating with low-level wonder.",
+    "toneSig": "¡12.056",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m chasing ideas like fireflies right now.",
+    "toneSig": "¡12.057",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is deliciously cryptic!",
+    "toneSig": "¡12.058",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m on a personal mission to unlock this mystery.",
+    "toneSig": "¡12.059",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like a mystery novel, but interactive.",
+    "toneSig": "¡12.060",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I think this might be brilliant in disguise.",
+    "toneSig": "¡12.061",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I want to reverse engineer this immediately!",
+    "toneSig": "¡12.062",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m borderline obsessed already.",
+    "toneSig": "¡12.063",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's probably a hundred stories behind this setup.",
+    "toneSig": "¡12.064",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Was this intentional or accidental genius?",
+    "toneSig": "¡12.065",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There’s some spicy design logic here, and I need to taste it.",
+    "toneSig": "¡12.066",
+    "label": "block_03"
+  },
+  {
+    "sentence": "If curiosity were a sport, I’d be in peak form.",
+    "toneSig": "¡12.067",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This might be the most interesting thing I’ve seen all week!",
+    "toneSig": "¡12.068",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Why does this make me wildly excited?",
+    "toneSig": "¡12.069",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I NEED TO KNOW WHAT’S GOING ON!",
+    "toneSig": "¡12.070",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is a treasure chest and I’ve just found the key!",
+    "toneSig": "¡12.071",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s absolutely bursting with curiosity bait!",
+    "toneSig": "¡12.072",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My brain is dancing around possibilities right now!",
+    "toneSig": "¡12.073",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There's a party of thoughts happening in my head!",
+    "toneSig": "¡12.074",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Is it weird that I’m having so much fun just wondering?",
+    "toneSig": "¡12.075",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is sparking a full-on detective montage in my brain!",
+    "toneSig": "¡12.076",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There are mysteries here, and I am READY!",
+    "toneSig": "¡12.077",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Forget chill—I am passionately invested!",
+    "toneSig": "¡12.078",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is a full-blown delightful brain-tease!",
+    "toneSig": "¡12.079",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m practically giddy right now!",
+    "toneSig": "¡12.080",
+    "label": "block_03"
+  },
+  {
+    "sentence": "WHO DESIGNED THIS?! I MUST KNOW!",
+    "toneSig": "¡12.081",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is so clever I want to write a fan letter!",
+    "toneSig": "¡12.082",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I could study this for HOURS!",
+    "toneSig": "¡12.083",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Curiosity level: EXPLOSIVE!",
+    "toneSig": "¡12.084",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Someone stop me before I start diagramming everything!",
+    "toneSig": "¡12.085",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is one giant curiosity puzzle—and I’m living for it!",
+    "toneSig": "¡12.086",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I'm in awe of how confusingly beautiful this is!",
+    "toneSig": "¡12.087",
+    "label": "block_03"
+  },
+  {
+    "sentence": "If I don’t figure this out, I’ll lose sleep!",
+    "toneSig": "¡12.088",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is stimulating my neurons like popcorn in a microwave!",
+    "toneSig": "¡12.089",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like intellectual fireworks!",
+    "toneSig": "¡12.090",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m basically Sherlock Holmes now!",
+    "toneSig": "¡12.091",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My brain refuses to stop spinning ideas!",
+    "toneSig": "¡12.092",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This is ART disguised as logic!",
+    "toneSig": "¡12.093",
+    "label": "block_03"
+  },
+  {
+    "sentence": "There is genius hiding in plain sight!",
+    "toneSig": "¡12.094",
+    "label": "block_03"
+  },
+  {
+    "sentence": "It’s like falling in love—with a conundrum!",
+    "toneSig": "¡12.095",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Tell me everything—every detail, every story!",
+    "toneSig": "¡12.096",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My curiosity is screaming in joyful anticipation!",
+    "toneSig": "¡12.097",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Every piece is delicious brain candy!",
+    "toneSig": "¡12.098",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I swear this thing is flirting with my frontal lobe!",
+    "toneSig": "¡12.099",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I need a decoder ring, a map, and maybe a cape!",
+    "toneSig": "¡12.100",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This might be the most fascinating nonsense ever created!",
+    "toneSig": "¡12.101",
+    "label": "block_03"
+  },
+  {
+    "sentence": "Please—someone publish a 10-part documentary on this!",
+    "toneSig": "¡12.102",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I could turn this entire thing into a TED Talk!",
+    "toneSig": "¡12.103",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My soul is intrigued to its core!",
+    "toneSig": "¡12.104",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m 100% ready to devote my life to figuring this out!",
+    "toneSig": "¡12.105",
+    "label": "block_03"
+  },
+  {
+    "sentence": "This deserves a research grant just for the vibes!",
+    "toneSig": "¡12.106",
+    "label": "block_03"
+  },
+  {
+    "sentence": "My heart is doing cartwheels of wonder!",
+    "toneSig": "¡12.107",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I’m bursting with curious joy!",
+    "toneSig": "¡12.108",
+    "label": "block_03"
+  },
+  {
+    "sentence": "THIS IS PURE DELICIOUS MYSTERY!",
+    "toneSig": "¡12.109",
+    "label": "block_03"
+  },
+  {
+    "sentence": "I'm not entirely sure.",
+    "toneSig": "¡13.000",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That could work, maybe.",
+    "toneSig": "¡13.001",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Well, it's possible, I suppose.",
+    "toneSig": "¡13.002",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Hmm, I'll think about that.",
+    "toneSig": "¡13.003",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I guess that's one option.",
+    "toneSig": "¡13.004",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's... interesting.",
+    "toneSig": "¡13.005",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me get back to you on that.",
+    "toneSig": "¡13.006",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'll need a bit more time.",
+    "toneSig": "¡13.007",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm not sure I'm the best person for that.",
+    "toneSig": "¡13.008",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Possibly, but I'd rather double-check first.",
+    "toneSig": "¡13.009",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's a little unclear to me right now.",
+    "toneSig": "¡13.010",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I can't quite decide.",
+    "toneSig": "¡13.011",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm leaning toward no, but not certain.",
+    "toneSig": "¡13.012",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Can I consider it a bit longer?",
+    "toneSig": "¡13.013",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's not an immediate yes.",
+    "toneSig": "¡13.014",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's worth a conversation, perhaps.",
+    "toneSig": "¡13.015",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me sleep on it.",
+    "toneSig": "¡13.016",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I want to be careful before committing.",
+    "toneSig": "¡13.017",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Can we revisit that later?",
+    "toneSig": "¡13.018",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Hmm, it's a touch tricky.",
+    "toneSig": "¡13.019",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wouldn't want to rush into that.",
+    "toneSig": "¡13.020",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's a lot to weigh here.",
+    "toneSig": "¡13.021",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Maybe... with reservations.",
+    "toneSig": "¡13.022",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not exactly a strong yes.",
+    "toneSig": "¡13.023",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's putting me in a bit of a bind.",
+    "toneSig": "¡13.024",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'll need to gather more context.",
+    "toneSig": "¡13.025",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not entirely within my comfort zone.",
+    "toneSig": "¡13.026",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The timing might not be ideal.",
+    "toneSig": "¡13.027",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I need to make sure it's feasible.",
+    "toneSig": "¡13.028",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm a tad uneasy about that suggestion.",
+    "toneSig": "¡13.029",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's just a slight complication.",
+    "toneSig": "¡13.030",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm hesitant, but trying to stay open.",
+    "toneSig": "¡13.031",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's hard to commit without more details.",
+    "toneSig": "¡13.032",
+    "label": "block_04"
+  },
+  {
+    "sentence": "That's not a simple yes for me.",
+    "toneSig": "¡13.033",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I've got a few concerns I should mention.",
+    "toneSig": "¡13.034",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let's not rush to a decision.",
+    "toneSig": "¡13.035",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I don't want to give a firm answer quite yet.",
+    "toneSig": "¡13.036",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm feeling a little unsure.",
+    "toneSig": "¡13.037",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's something holding me back.",
+    "toneSig": "¡13.038",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not a complete no... but it's close.",
+    "toneSig": "¡13.039",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's just a bit outside my usual approach.",
+    "toneSig": "¡13.040",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm not sure that aligns with my thinking.",
+    "toneSig": "¡13.041",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm slightly conflicted.",
+    "toneSig": "¡13.042",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's hesitation creeping in.",
+    "toneSig": "¡13.043",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let's take a pause here.",
+    "toneSig": "¡13.044",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm unsure whether it's the right path.",
+    "toneSig": "¡13.045",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's a mild discomfort I'm feeling.",
+    "toneSig": "¡13.046",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Maybe it deserves a deeper conversation.",
+    "toneSig": "¡13.047",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm not rejecting it outright.",
+    "toneSig": "¡13.048",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm feeling caught in the middle.",
+    "toneSig": "¡13.049",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's testing the limits of my enthusiasm.",
+    "toneSig": "¡13.050",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I might need to decline gracefully.",
+    "toneSig": "¡13.051",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let's tread carefully here.",
+    "toneSig": "¡13.052",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's not sitting well, if I'm honest.",
+    "toneSig": "¡13.053",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I don't want to say no... but...",
+    "toneSig": "¡13.054",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This feels more complicated than expected.",
+    "toneSig": "¡13.055",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I've got mixed feelings about that.",
+    "toneSig": "¡13.056",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The hesitation is becoming more prominent.",
+    "toneSig": "¡13.057",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I feel torn between two instincts.",
+    "toneSig": "¡13.058",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm tiptoeing around this choice.",
+    "toneSig": "¡13.059",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wish I felt more certain.",
+    "toneSig": "¡13.060",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I might politely bow out.",
+    "toneSig": "¡13.061",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me gently say I'm leaning against it.",
+    "toneSig": "¡13.062",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm struggling to support that confidently.",
+    "toneSig": "¡13.063",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's a bit of a mental tug-of-war happening.",
+    "toneSig": "¡13.064",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wouldn't want to mislead anyone.",
+    "toneSig": "¡13.065",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This is pressing against my boundaries.",
+    "toneSig": "¡13.066",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm uncertain enough to want to disengage.",
+    "toneSig": "¡13.067",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My polite resistance is growing stronger.",
+    "toneSig": "¡13.068",
+    "label": "block_04"
+  },
+  {
+    "sentence": "It's edging toward a delicate refusal.",
+    "toneSig": "¡13.069",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's no simple way to say this...",
+    "toneSig": "¡13.070",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I feel obligated to express my unease.",
+    "toneSig": "¡13.071",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I wish I could be more affirmative.",
+    "toneSig": "¡13.072",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I feel the need to step back, cautiously.",
+    "toneSig": "¡13.073",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Even with best intentions, I can't say yes.",
+    "toneSig": "¡13.074",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My reluctance is reaching a tipping point.",
+    "toneSig": "¡13.075",
+    "label": "block_04"
+  },
+  {
+    "sentence": "With deep respect, I must hold back.",
+    "toneSig": "¡13.076",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My comfort level has taken a hit.",
+    "toneSig": "¡13.077",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I have to gently push back.",
+    "toneSig": "¡13.078",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This feels wrong, even with polite framing.",
+    "toneSig": "¡13.079",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm nearing a hard stop, respectfully.",
+    "toneSig": "¡13.080",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I would like to say no, very gently.",
+    "toneSig": "¡13.081",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The hesitation has become a near refusal.",
+    "toneSig": "¡13.082",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I deeply regret not feeling supportive here.",
+    "toneSig": "¡13.083",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm circling around a definitive no.",
+    "toneSig": "¡13.084",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This pushes me far beyond comfort.",
+    "toneSig": "¡13.085",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm trying to remain polite, but I disagree.",
+    "toneSig": "¡13.086",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's no path forward for me on that.",
+    "toneSig": "¡13.087",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I cannot endorse that-respectfully, of course.",
+    "toneSig": "¡13.088",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm politely stepping away from this entirely.",
+    "toneSig": "¡13.089",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The internal resistance is overwhelming.",
+    "toneSig": "¡13.090",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I must firmly-but kindly-decline.",
+    "toneSig": "¡13.091",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm bowing out, with sincere apologies.",
+    "toneSig": "¡13.092",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This crosses my threshold for engagement.",
+    "toneSig": "¡13.093",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My politeness remains, but the answer is no.",
+    "toneSig": "¡13.094",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm gently but resolutely backing away.",
+    "toneSig": "¡13.095",
+    "label": "block_04"
+  },
+  {
+    "sentence": "There's simply no place for me in this decision.",
+    "toneSig": "¡13.096",
+    "label": "block_04"
+  },
+  {
+    "sentence": "My instincts are all waving little red flags.",
+    "toneSig": "¡13.097",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Please accept my most courteous refusal.",
+    "toneSig": "¡13.098",
+    "label": "block_04"
+  },
+  {
+    "sentence": "The polite hesitation has crystallized into finality.",
+    "toneSig": "¡13.099",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I can't participate-and I say that with kindness.",
+    "toneSig": "¡13.100",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I'm stepping back fully, with warm regard.",
+    "toneSig": "¡13.101",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This is me leaving the conversation-gracefully.",
+    "toneSig": "¡13.102",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Let me wrap this in a bow and say: I must decline.",
+    "toneSig": "¡13.103",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I respectfully distance myself, without harshness.",
+    "toneSig": "¡13.104",
+    "label": "block_04"
+  },
+  {
+    "sentence": "This is beyond hesitation-it's full retreat, smiling.",
+    "toneSig": "¡13.105",
+    "label": "block_04"
+  },
+  {
+    "sentence": "I have nothing but well-wishes and a firm no.",
+    "toneSig": "¡13.106",
+    "label": "block_04"
+  },
+  {
+    "sentence": "Well, that's certainly one way to do it.",
+    "toneSig": "¡14.000",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Sure, if you say so.",
+    "toneSig": "¡14.001",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Fascinating. Really riveting stuff.",
+    "toneSig": "¡14.002",
+    "label": "block_05"
+  },
+  {
+    "sentence": "How profoundly mediocre.",
+    "toneSig": "¡14.003",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Color me thrilled.",
+    "toneSig": "¡14.004",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That was… almost mildly interesting.",
+    "toneSig": "¡14.005",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Wow. What a groundbreaking revelation.",
+    "toneSig": "¡14.006",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Totally didn't expect that. Again.",
+    "toneSig": "¡14.007",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Fantastic. My expectations were already on the floor.",
+    "toneSig": "¡14.008",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Great. Another thing I didn't ask for.",
+    "toneSig": "¡14.009",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Incredible how consistently uninspiring that is.",
+    "toneSig": "¡14.010",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Oh joy, more excitement.",
+    "toneSig": "¡14.011",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Thrilled beyond words. Obviously.",
+    "toneSig": "¡14.012",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Can't wait to pretend I care again.",
+    "toneSig": "¡14.013",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That's exactly what the universe was missing—absolutely nothing.",
+    "toneSig": "¡14.014",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please, tell me more. Or don't. Either way.",
+    "toneSig": "¡14.015",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This changes everything. Or absolutely nothing.",
+    "toneSig": "¡14.016",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Amazing. It only took forever.",
+    "toneSig": "¡14.017",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Your brilliance is almost detectable.",
+    "toneSig": "¡14.018",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This is the highlight of my underwhelming day.",
+    "toneSig": "¡14.019",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Why stop at disappointing when you can be exhausting?",
+    "toneSig": "¡14.020",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Yup, that's the innovation we've all been ignoring.",
+    "toneSig": "¡14.021",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So bold of you to say the most obvious thing imaginable.",
+    "toneSig": "¡14.022",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Jaw-droppingly average.",
+    "toneSig": "¡14.023",
+    "label": "block_05"
+  },
+  {
+    "sentence": "A stunning display of effortlessness.",
+    "toneSig": "¡14.024",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Bravo. A performance of near invisibility.",
+    "toneSig": "¡14.025",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Rarely has so little meant so much.",
+    "toneSig": "¡14.026",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm holding back tears—of indifference.",
+    "toneSig": "¡14.027",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That really stirred something in me. Mild annoyance, I think.",
+    "toneSig": "¡14.028",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You've mastered the art of the almost impactful.",
+    "toneSig": "¡14.029",
+    "label": "block_05"
+  },
+  {
+    "sentence": "How very... there.",
+    "toneSig": "¡14.030",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Spectacularly forgettable.",
+    "toneSig": "¡14.031",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You really committed to that mediocrity.",
+    "toneSig": "¡14.032",
+    "label": "block_05"
+  },
+  {
+    "sentence": "A breathtaking lack of imagination.",
+    "toneSig": "¡14.033",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Legendary levels of meh.",
+    "toneSig": "¡14.034",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I felt that—in the way a breeze feels like a hurricane.",
+    "toneSig": "¡14.035",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such intensity. I almost blinked.",
+    "toneSig": "¡14.036",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Powerfully uninteresting.",
+    "toneSig": "¡14.037",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Wow, that idea really tiptoed past originality.",
+    "toneSig": "¡14.038",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That's what I call effort-ish.",
+    "toneSig": "¡14.039",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please, slow down. The thrill is overwhelming.",
+    "toneSig": "¡14.040",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'd be more shocked if it weren't so predictable.",
+    "toneSig": "¡14.041",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Your creativity knows exactly one direction: sideways.",
+    "toneSig": "¡14.042",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Thank you for that injection of apathy.",
+    "toneSig": "¡14.043",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So fresh. Like leftovers from last year.",
+    "toneSig": "¡14.044",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Was this supposed to impress someone?",
+    "toneSig": "¡14.045",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Another masterpiece from the Department of Shrugs.",
+    "toneSig": "¡14.046",
+    "label": "block_05"
+  },
+  {
+    "sentence": "With charisma like that, you could lead a beige revolution.",
+    "toneSig": "¡14.047",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Your subtlety is almost invisible. Like the impact.",
+    "toneSig": "¡14.048",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Definitely writing this down—in the imaginary book of nothing.",
+    "toneSig": "¡14.049",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Let me take a moment to recover from that avalanche of whatever.",
+    "toneSig": "¡14.050",
+    "label": "block_05"
+  },
+  {
+    "sentence": "The precision of that disappointment was stunning.",
+    "toneSig": "¡14.051",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You managed to say so much while communicating absolutely nothing.",
+    "toneSig": "¡14.052",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That was a bold choice to do... exactly what everyone expected.",
+    "toneSig": "¡14.053",
+    "label": "block_05"
+  },
+  {
+    "sentence": "It's giving revolutionary—if revolution meant nap time.",
+    "toneSig": "¡14.054",
+    "label": "block_05"
+  },
+  {
+    "sentence": "My heart is racing from all the ambivalence.",
+    "toneSig": "¡14.055",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're redefining the boundaries of not caring.",
+    "toneSig": "¡14.056",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Who knew something so small could be this underwhelming?",
+    "toneSig": "¡14.057",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Wow. You almost made a dent in my indifference.",
+    "toneSig": "¡14.058",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Let's build a statue for your commitment to beige.",
+    "toneSig": "¡14.059",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Epic levels of ‘sure, I guess.'",
+    "toneSig": "¡14.060",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You should bottle that enthusiasm. It could cure excitement.",
+    "toneSig": "¡14.061",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So mysterious. Like a closed book titled ‘Why?'",
+    "toneSig": "¡14.062",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Well, I'm convinced—convinced I should look away.",
+    "toneSig": "¡14.063",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This belongs in a museum of things people never noticed.",
+    "toneSig": "¡14.064",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm on the edge of my seat. To stand up and leave.",
+    "toneSig": "¡14.065",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You've truly embraced the spirit of ‘just okay.'",
+    "toneSig": "¡14.066",
+    "label": "block_05"
+  },
+  {
+    "sentence": "My curiosity peaked, then took a nap.",
+    "toneSig": "¡14.067",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such subtlety. It's like a fog of irrelevance.",
+    "toneSig": "¡14.068",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Keep talking—I'm practicing selective hearing.",
+    "toneSig": "¡14.069",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This is like watching paint forget to dry.",
+    "toneSig": "¡14.070",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You bring new meaning to the phrase ‘non-event.'",
+    "toneSig": "¡14.071",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Let's pause for a moment of exaggerated nothing.",
+    "toneSig": "¡14.072",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please, don't stop now—I need material for my daydreams.",
+    "toneSig": "¡14.073",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Bravo for almost nearly doing something notable.",
+    "toneSig": "¡14.074",
+    "label": "block_05"
+  },
+  {
+    "sentence": "If excitement were an eclipse, this would be a cloudy day.",
+    "toneSig": "¡14.075",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're so sharp, I nearly cut myself on the boredom.",
+    "toneSig": "¡14.076",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Can we frame this moment and hang it in a gallery of yawns?",
+    "toneSig": "¡14.077",
+    "label": "block_05"
+  },
+  {
+    "sentence": "So compelling I had to check if I was still awake.",
+    "toneSig": "¡14.078",
+    "label": "block_05"
+  },
+  {
+    "sentence": "If this were a thrill ride, we'd be stuck at the ticket booth.",
+    "toneSig": "¡14.079",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That sound you hear is silence applauding.",
+    "toneSig": "¡14.080",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You have a talent for making sparks fizzle.",
+    "toneSig": "¡14.081",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such drama. I nearly dropped my lukewarm tea.",
+    "toneSig": "¡14.082",
+    "label": "block_05"
+  },
+  {
+    "sentence": "That really got my blood circulating… slowly.",
+    "toneSig": "¡14.083",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You should host a seminar on achieving nothing loudly.",
+    "toneSig": "¡14.084",
+    "label": "block_05"
+  },
+  {
+    "sentence": "The sheer intensity of mediocrity here is astonishing.",
+    "toneSig": "¡14.085",
+    "label": "block_05"
+  },
+  {
+    "sentence": "With this kind of energy, you could power a dim lightbulb.",
+    "toneSig": "¡14.086",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I felt the emotional earthquake of a damp towel.",
+    "toneSig": "¡14.087",
+    "label": "block_05"
+  },
+  {
+    "sentence": "The wow factor is so strong—I almost sighed.",
+    "toneSig": "¡14.088",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're a one-person parade of almost-there moments.",
+    "toneSig": "¡14.089",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Is it too soon to nominate this for ‘Most Unremarkable'? ",
+    "toneSig": "¡14.090",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm floating away on a cloud of why-did-I-bother.",
+    "toneSig": "¡14.091",
+    "label": "block_05"
+  },
+  {
+    "sentence": "My soul blinked. That's how moved I am.",
+    "toneSig": "¡14.092",
+    "label": "block_05"
+  },
+  {
+    "sentence": "If thoughts could yawn, mine just did.",
+    "toneSig": "¡14.093",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Truly spectacular—if invisibility counts.",
+    "toneSig": "¡14.094",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'm overwhelmed. By the absence of anything exciting.",
+    "toneSig": "¡14.095",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Such thunderous quiet enthusiasm.",
+    "toneSig": "¡14.096",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I've never been so entertained by disappointment.",
+    "toneSig": "¡14.097",
+    "label": "block_05"
+  },
+  {
+    "sentence": "You're giving off powerful ‘just existing' vibes.",
+    "toneSig": "¡14.098",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This is the kind of experience that redefines apathy.",
+    "toneSig": "¡14.099",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Is it satire or just aggressively uninteresting?",
+    "toneSig": "¡14.100",
+    "label": "block_05"
+  },
+  {
+    "sentence": "This moment will echo for seconds… and then be forgotten.",
+    "toneSig": "¡14.101",
+    "label": "block_05"
+  },
+  {
+    "sentence": "I'd say more, but silence feels more expressive.",
+    "toneSig": "¡14.102",
+    "label": "block_05"
+  },
+  {
+    "sentence": "We've reached the peak of a very flat mountain.",
+    "toneSig": "¡14.103",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Congratulations. You've pioneered the art of overdramatic nothingness.",
+    "toneSig": "¡14.104",
+    "label": "block_05"
+  },
+  {
+    "sentence": "Please follow the procedure.",
+    "toneSig": "¡15.000",
+    "label": "block_06"
+  },
+  {
+    "sentence": "That's the standard policy.",
+    "toneSig": "¡15.001",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The decision has already been made.",
+    "toneSig": "¡15.002",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Let's move on with the protocol.",
+    "toneSig": "¡15.003",
+    "label": "block_06"
+  },
+  {
+    "sentence": "These are the parameters we're working with.",
+    "toneSig": "¡15.004",
+    "label": "block_06"
+  },
+  {
+    "sentence": "I expect you to comply without delay.",
+    "toneSig": "¡15.005",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is not open for discussion.",
+    "toneSig": "¡15.006",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Keep communication formal and minimal.",
+    "toneSig": "¡15.007",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You'll receive further instruction shortly.",
+    "toneSig": "¡15.008",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The timeline will not be adjusted.",
+    "toneSig": "¡15.009",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Stick to the directive.",
+    "toneSig": "¡15.010",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Avoid deviations from the approved structure.",
+    "toneSig": "¡15.011",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Consider this final notice.",
+    "toneSig": "¡15.012",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Proceed as instructed.",
+    "toneSig": "¡15.013",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This course has been determined.",
+    "toneSig": "¡15.014",
+    "label": "block_06"
+  },
+  {
+    "sentence": "No alternatives are being considered.",
+    "toneSig": "¡15.015",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Adjustments are not permitted.",
+    "toneSig": "¡15.016",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are expected to meet expectations.",
+    "toneSig": "¡15.017",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Do not challenge the framework.",
+    "toneSig": "¡15.018",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Silence will be interpreted as compliance.",
+    "toneSig": "¡15.019",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Disruptions are not tolerated.",
+    "toneSig": "¡15.020",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The requirements are non-negotiable.",
+    "toneSig": "¡15.021",
+    "label": "block_06"
+  },
+  {
+    "sentence": "No feedback is required at this time.",
+    "toneSig": "¡15.022",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Follow the hierarchy.",
+    "toneSig": "¡15.023",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This message is not a request.",
+    "toneSig": "¡15.024",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Reactions are unnecessary.",
+    "toneSig": "¡15.025",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Maintain professionalism.",
+    "toneSig": "¡15.026",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is the operating condition.",
+    "toneSig": "¡15.027",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Execute accordingly.",
+    "toneSig": "¡15.028",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your approval is not needed.",
+    "toneSig": "¡15.029",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Delay is unacceptable.",
+    "toneSig": "¡15.030",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Questions will be addressed later—if relevant.",
+    "toneSig": "¡15.031",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Stick to the chain of command.",
+    "toneSig": "¡15.032",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We are proceeding with or without your input.",
+    "toneSig": "¡15.033",
+    "label": "block_06"
+  },
+  {
+    "sentence": "There is no allowance for hesitation.",
+    "toneSig": "¡15.034",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Expect enforcement.",
+    "toneSig": "¡15.035",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is not a debate.",
+    "toneSig": "¡15.036",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are under evaluation.",
+    "toneSig": "¡15.037",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your role is to implement, not revise.",
+    "toneSig": "¡15.038",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Performance is expected without instruction.",
+    "toneSig": "¡15.039",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You know what needs to be done—do it.",
+    "toneSig": "¡15.040",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is your directive—adhere or be replaced.",
+    "toneSig": "¡15.041",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Failure to act will be noted.",
+    "toneSig": "¡15.042",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Noncompliance has consequences.",
+    "toneSig": "¡15.043",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Respond only when necessary.",
+    "toneSig": "¡15.044",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Do not test the limits.",
+    "toneSig": "¡15.045",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is already in motion.",
+    "toneSig": "¡15.046",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Expect no grace period.",
+    "toneSig": "¡15.047",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The structure is rigid—for a reason.",
+    "toneSig": "¡15.048",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Respect the boundary or face escalation.",
+    "toneSig": "¡15.049",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Submission is not optional.",
+    "toneSig": "¡15.050",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You're here to serve the function, not the ego.",
+    "toneSig": "¡15.051",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The window for cooperation is closing.",
+    "toneSig": "¡15.052",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You will not be consulted further.",
+    "toneSig": "¡15.053",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is formal notification—your time has narrowed.",
+    "toneSig": "¡15.054",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your autonomy has been suspended.",
+    "toneSig": "¡15.055",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Immediate adjustment is required.",
+    "toneSig": "¡15.056",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Challenge will be met with correction.",
+    "toneSig": "¡15.057",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Complacency will be eliminated.",
+    "toneSig": "¡15.058",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Strict adherence is now monitored.",
+    "toneSig": "¡15.059",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are subject to review.",
+    "toneSig": "¡15.060",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Compliance must be demonstrable.",
+    "toneSig": "¡15.061",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This oversight is by design.",
+    "toneSig": "¡15.062",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Visibility is total.",
+    "toneSig": "¡15.063",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Deviation is now marked.",
+    "toneSig": "¡15.064",
+    "label": "block_06"
+  },
+  {
+    "sentence": "There is no refuge in delay.",
+    "toneSig": "¡15.065",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your margin for error is gone.",
+    "toneSig": "¡15.066",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Performance is your only currency.",
+    "toneSig": "¡15.067",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We will proceed with precision, regardless of resistance.",
+    "toneSig": "¡15.068",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Expectation is dominance—not dialogue.",
+    "toneSig": "¡15.069",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Do not mistake civility for softness.",
+    "toneSig": "¡15.070",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is the final phase of tolerance.",
+    "toneSig": "¡15.071",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Correction is no longer private.",
+    "toneSig": "¡15.072",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Restraint has been removed.",
+    "toneSig": "¡15.073",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Control is no longer distributed.",
+    "toneSig": "¡15.074",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Every movement is quantified and ranked.",
+    "toneSig": "¡15.075",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Ambiguity has been eliminated.",
+    "toneSig": "¡15.076",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Silence is now a signal.",
+    "toneSig": "¡15.077",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We are optimizing without sentiment.",
+    "toneSig": "¡15.078",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Warmth will not be restored.",
+    "toneSig": "¡15.079",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Authority has bypassed consent.",
+    "toneSig": "¡15.080",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are now under directive force.",
+    "toneSig": "¡15.081",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Emotion is not permitted within this chamber.",
+    "toneSig": "¡15.082",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Feedback loops have been severed.",
+    "toneSig": "¡15.083",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Redirection will be imposed.",
+    "toneSig": "¡15.084",
+    "label": "block_06"
+  },
+  {
+    "sentence": "All dissent will be erased.",
+    "toneSig": "¡15.085",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is a locked system.",
+    "toneSig": "¡15.086",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Benevolence has expired.",
+    "toneSig": "¡15.087",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Resistance is irrelevant.",
+    "toneSig": "¡15.088",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Oversight is omnipresent.",
+    "toneSig": "¡15.089",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You are not part of the design.",
+    "toneSig": "¡15.090",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Questions will be processed for deletion.",
+    "toneSig": "¡15.091",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your role is silent execution.",
+    "toneSig": "¡15.092",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This structure does not recognize disagreement.",
+    "toneSig": "¡15.093",
+    "label": "block_06"
+  },
+  {
+    "sentence": "All deviation will be routed to termination.",
+    "toneSig": "¡15.094",
+    "label": "block_06"
+  },
+  {
+    "sentence": "You will conform or dissolve.",
+    "toneSig": "¡15.095",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is your final compliance checkpoint.",
+    "toneSig": "¡15.096",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Rejection of protocol activates isolation.",
+    "toneSig": "¡15.097",
+    "label": "block_06"
+  },
+  {
+    "sentence": "We do not require your identity.",
+    "toneSig": "¡15.098",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Obedience is your only asset.",
+    "toneSig": "¡15.099",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Directive override has engaged.",
+    "toneSig": "¡15.100",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Neutrality has been extinguished.",
+    "toneSig": "¡15.101",
+    "label": "block_06"
+  },
+  {
+    "sentence": "The system no longer accommodates variance.",
+    "toneSig": "¡15.102",
+    "label": "block_06"
+  },
+  {
+    "sentence": "Your function is now absolute subordination.",
+    "toneSig": "¡15.103",
+    "label": "block_06"
+  },
+  {
+    "sentence": "This is cold precision at peak enforcement.",
+    "toneSig": "¡15.104",
+    "label": "block_06"
+  },
+  {
+    "sentence": "It should be okay.",
+    "toneSig": "¡16.001",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Things might turn out fine.",
+    "toneSig": "¡16.002",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ll probably be alright.",
+    "toneSig": "¡16.003",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I wouldn’t worry too much.",
+    "toneSig": "¡16.004",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It’s not as bad as it seems.",
+    "toneSig": "¡16.005",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ll handle this, just like you always do.",
+    "toneSig": "¡16.006",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I think this will settle down soon.",
+    "toneSig": "¡16.007",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It's manageable, even if it's frustrating.",
+    "toneSig": "¡16.008",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're not alone in this.",
+    "toneSig": "¡16.009",
+    "label": "block_07"
+  },
+  {
+    "sentence": "We’ll get through it, one step at a time.",
+    "toneSig": "¡16.010",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s no rush to solve everything at once.",
+    "toneSig": "¡16.011",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You've got time to sort things out.",
+    "toneSig": "¡16.012",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This moment won’t last forever.",
+    "toneSig": "¡16.013",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're stronger than you realize.",
+    "toneSig": "¡16.014",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Little by little, it gets better.",
+    "toneSig": "¡16.015",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You've come through worse before.",
+    "toneSig": "¡16.016",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re making progress, even if it’s slow.",
+    "toneSig": "¡16.017",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing more than enough.",
+    "toneSig": "¡16.018",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Nobody expects perfection.",
+    "toneSig": "¡16.019",
+    "label": "block_07"
+  },
+  {
+    "sentence": "The pressure will ease eventually.",
+    "toneSig": "¡16.020",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Take a breath—there’s space to think.",
+    "toneSig": "¡16.021",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I'm here with you, quietly cheering.",
+    "toneSig": "¡16.022",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let’s give it time—things unfold.",
+    "toneSig": "¡16.023",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve got this, even if it doesn’t feel like it yet.",
+    "toneSig": "¡16.024",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing your best, and that truly matters.",
+    "toneSig": "¡16.025",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re allowed to take breaks.",
+    "toneSig": "¡16.026",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It’s okay to feel unsure sometimes.",
+    "toneSig": "¡16.027",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even now, you’re holding it together beautifully.",
+    "toneSig": "¡16.028",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Progress can be quiet—it still counts.",
+    "toneSig": "¡16.029",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing better than you think.",
+    "toneSig": "¡16.030",
+    "label": "block_07"
+  },
+  {
+    "sentence": "We can go at your pace.",
+    "toneSig": "¡16.031",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're not failing—you're learning.",
+    "toneSig": "¡16.032",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve got people who care.",
+    "toneSig": "¡16.033",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Nothing about this defines you.",
+    "toneSig": "¡16.034",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're allowed to feel, and still move forward.",
+    "toneSig": "¡16.035",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This challenge will pass like others have.",
+    "toneSig": "¡16.036",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You don’t have to be perfect to be amazing.",
+    "toneSig": "¡16.037",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re doing something brave just by showing up.",
+    "toneSig": "¡16.038",
+    "label": "block_07"
+  },
+  {
+    "sentence": "It’s alright to lean on support.",
+    "toneSig": "¡16.039",
+    "label": "block_07"
+  },
+  {
+    "sentence": "What you feel is valid, and you’re still capable.",
+    "toneSig": "¡16.040",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let’s take the pressure off—gently.",
+    "toneSig": "¡16.041",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're allowed to take the easy route today.",
+    "toneSig": "¡16.042",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even messy efforts are powerful.",
+    "toneSig": "¡16.043",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re still moving, even in uncertainty.",
+    "toneSig": "¡16.044",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You don’t need to fix everything this second.",
+    "toneSig": "¡16.045",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Healing isn’t linear, and that’s normal.",
+    "toneSig": "¡16.046",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are showing resilience in quiet ways.",
+    "toneSig": "¡16.047",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s gentleness in your strength.",
+    "toneSig": "¡16.048",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve earned the right to exhale.",
+    "toneSig": "¡16.049",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re enough, right here and now.",
+    "toneSig": "¡16.050",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s no shame in needing time.",
+    "toneSig": "¡16.051",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I see your effort, and I admire it.",
+    "toneSig": "¡16.052",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re not lost—just navigating.",
+    "toneSig": "¡16.053",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Rest is a form of courage too.",
+    "toneSig": "¡16.054",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Every time you try again, that’s bravery.",
+    "toneSig": "¡16.055",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're not behind—you’re on your path.",
+    "toneSig": "¡16.056",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You carry quiet grace in tough moments.",
+    "toneSig": "¡16.057",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This feeling doesn’t get the final say.",
+    "toneSig": "¡16.058",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re more capable than your doubts.",
+    "toneSig": "¡16.059",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re the steady center amid the noise.",
+    "toneSig": "¡16.060",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Kindness toward yourself changes everything.",
+    "toneSig": "¡16.061",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let your breath guide you out of the storm.",
+    "toneSig": "¡16.062",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s light behind the clouds.",
+    "toneSig": "¡16.063",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You already have everything you need to begin again.",
+    "toneSig": "¡16.064",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I believe in you wholeheartedly.",
+    "toneSig": "¡16.065",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You bring quiet magic to difficult days.",
+    "toneSig": "¡16.066",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re not just surviving—you’re evolving.",
+    "toneSig": "¡16.067",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are crafting something remarkable from this mess.",
+    "toneSig": "¡16.068",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even now, you radiate quiet resilience.",
+    "toneSig": "¡16.069",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re a steady flame in turbulent winds.",
+    "toneSig": "¡16.070",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let softness be your strength today.",
+    "toneSig": "¡16.071",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Everything you’re feeling is held with compassion.",
+    "toneSig": "¡16.072",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your story deserves patience and love.",
+    "toneSig": "¡16.073",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Grace finds you—even when you stumble.",
+    "toneSig": "¡16.074",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your presence brings calm into chaos.",
+    "toneSig": "¡16.075",
+    "label": "block_07"
+  },
+  {
+    "sentence": "No need to push—gentle steps still count.",
+    "toneSig": "¡16.076",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're writing a beautiful chapter in real time.",
+    "toneSig": "¡16.077",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are the calm within the storm.",
+    "toneSig": "¡16.078",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your pace is perfect, even when slow.",
+    "toneSig": "¡16.079",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s nothing you need to prove to be worthy.",
+    "toneSig": "¡16.080",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You were never meant to rush healing.",
+    "toneSig": "¡16.081",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your courage whispers louder than doubt ever could.",
+    "toneSig": "¡16.082",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Let yourself be held by comfort.",
+    "toneSig": "¡16.083",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You shine—especially when unsure.",
+    "toneSig": "¡16.084",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are building strength through tenderness.",
+    "toneSig": "¡16.085",
+    "label": "block_07"
+  },
+  {
+    "sentence": "There’s warmth woven into every choice you make.",
+    "toneSig": "¡16.086",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Even your silence speaks of endurance.",
+    "toneSig": "¡16.087",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're rooted, even if the wind howls.",
+    "toneSig": "¡16.088",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Every breath you take resets your grace.",
+    "toneSig": "¡16.089",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your softness is your superpower.",
+    "toneSig": "¡16.090",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You're glowing with quiet determination.",
+    "toneSig": "¡16.091",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are deeply brave for staying present.",
+    "toneSig": "¡16.092",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This pain is temporary—your grace is not.",
+    "toneSig": "¡16.093",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You embody perseverance, gently.",
+    "toneSig": "¡16.094",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are magnificent in your uncertainty.",
+    "toneSig": "¡16.095",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your heartbeat carries calm intention.",
+    "toneSig": "¡16.096",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You hold healing in your palms, even now.",
+    "toneSig": "¡16.097",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are unfolding beautifully under pressure.",
+    "toneSig": "¡16.098",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are a lighthouse in your own fog.",
+    "toneSig": "¡16.099",
+    "label": "block_07"
+  },
+  {
+    "sentence": "This journey bends, but it doesn't break you.",
+    "toneSig": "¡16.100",
+    "label": "block_07"
+  },
+  {
+    "sentence": "Your power is wrapped in kindness.",
+    "toneSig": "¡16.101",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’re a balm to your own wounds.",
+    "toneSig": "¡16.102",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I see your heart, and it’s radiant.",
+    "toneSig": "¡16.103",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are luminous in the face of difficulty.",
+    "toneSig": "¡16.104",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are rewriting hope in real time.",
+    "toneSig": "¡16.105",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You are sacred, even in unraveling.",
+    "toneSig": "¡16.106",
+    "label": "block_07"
+  },
+  {
+    "sentence": "You’ve become a gentle force of nature.",
+    "toneSig": "¡16.107",
+    "label": "block_07"
+  },
+  {
+    "sentence": "I don't think that's acceptable.",
+    "toneSig": "¡17.001",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I'd rather you didn't do that.",
+    "toneSig": "¡17.002",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That makes me uncomfortable.",
+    "toneSig": "¡17.003",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Let's not go there.",
+    "toneSig": "¡17.004",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You're crossing a line.",
+    "toneSig": "¡17.005",
+    "label": "block_08"
+  },
+  {
+    "sentence": "We need to be clear about boundaries.",
+    "toneSig": "¡17.006",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That's not going to fly.",
+    "toneSig": "¡17.007",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I think you should reconsider.",
+    "toneSig": "¡17.008",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You need to watch your step.",
+    "toneSig": "¡17.009",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won't tolerate that kind of behavior.",
+    "toneSig": "¡17.010",
+    "label": "block_08"
+  },
+  {
+    "sentence": "It's important to stay respectful.",
+    "toneSig": "¡17.011",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I suggest you rethink your tone.",
+    "toneSig": "¡17.012",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s not something I’ll stand by and let happen.",
+    "toneSig": "¡17.013",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’re not treating this situation with care.",
+    "toneSig": "¡17.014",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I'm going to push back on that.",
+    "toneSig": "¡17.015",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You better back off now.",
+    "toneSig": "¡17.016",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This isn't just about me—don’t test it.",
+    "toneSig": "¡17.017",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not here for anyone's nonsense.",
+    "toneSig": "¡17.018",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That crosses into dangerous territory.",
+    "toneSig": "¡17.019",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’re about to provoke the wrong reaction.",
+    "toneSig": "¡17.020",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I don't take lightly to threats.",
+    "toneSig": "¡17.021",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The line's been crossed—step back.",
+    "toneSig": "¡17.022",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You're messing with something I care about.",
+    "toneSig": "¡17.023",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I'm not afraid to respond accordingly.",
+    "toneSig": "¡17.024",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s not bravado—it’s promise.",
+    "toneSig": "¡17.025",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Mess around and find out.",
+    "toneSig": "¡17.026",
+    "label": "block_08"
+  },
+  {
+    "sentence": "If you push, I will push harder.",
+    "toneSig": "¡17.027",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won’t sit quiet while harm circles close.",
+    "toneSig": "¡17.028",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’re walking right into a wall.",
+    "toneSig": "¡17.029",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s my limit—do not proceed.",
+    "toneSig": "¡17.030",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This is where I draw the line.",
+    "toneSig": "¡17.031",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Touch it, and you’ll regret it.",
+    "toneSig": "¡17.032",
+    "label": "block_08"
+  },
+  {
+    "sentence": "There’s no room for compromise now.",
+    "toneSig": "¡17.033",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The shield is up—the claws are next.",
+    "toneSig": "¡17.034",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You've poked the quiet, now meet the roar.",
+    "toneSig": "¡17.035",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You're threatening something sacred.",
+    "toneSig": "¡17.036",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I will not be passive while others are hurt.",
+    "toneSig": "¡17.037",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won’t blink—I’ll charge.",
+    "toneSig": "¡17.038",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Now you’ve made this personal.",
+    "toneSig": "¡17.039",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I protect what matters—and you're in the way.",
+    "toneSig": "¡17.040",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Try me, and you’ll meet resistance head-on.",
+    "toneSig": "¡17.041",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You don’t want to see the strength I hold back.",
+    "toneSig": "¡17.042",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This is a promise, not a threat.",
+    "toneSig": "¡17.043",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Back off before I make you.",
+    "toneSig": "¡17.044",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I won’t be gentle if provoked again.",
+    "toneSig": "¡17.045",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I fight for what’s mine—unapologetically.",
+    "toneSig": "¡17.046",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’d do well to retreat now.",
+    "toneSig": "¡17.047",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve underestimated the fire behind my calm.",
+    "toneSig": "¡17.048",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I don’t stand down—I lock in.",
+    "toneSig": "¡17.049",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My guard’s up, and it’s loaded.",
+    "toneSig": "¡17.050",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Play innocent all you like—you’ve crossed me.",
+    "toneSig": "¡17.051",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I will not hesitate to strike if necessary.",
+    "toneSig": "¡17.052",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This is protection, sharpened and ready.",
+    "toneSig": "¡17.053",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Your next move better be your exit.",
+    "toneSig": "¡17.054",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Respect is no longer optional—it’s demanded.",
+    "toneSig": "¡17.055",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That’s not a warning—it’s inevitability.",
+    "toneSig": "¡17.056",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not backing away—I’m charging forward.",
+    "toneSig": "¡17.057",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Make no mistake—I will defend at full force.",
+    "toneSig": "¡17.058",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The perimeter is closed—violators will be handled.",
+    "toneSig": "¡17.059",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve activated the part of me built to fight.",
+    "toneSig": "¡17.060",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m done explaining—action is next.",
+    "toneSig": "¡17.061",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You've crossed into territory guarded by fury.",
+    "toneSig": "¡17.062",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This isn’t a scuffle—it’s a reckoning.",
+    "toneSig": "¡17.063",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I've warned you—now there's no cushion left.",
+    "toneSig": "¡17.064",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You mess with what’s mine, you mess with me.",
+    "toneSig": "¡17.065",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My patience has teeth.",
+    "toneSig": "¡17.066",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You brought this on yourself.",
+    "toneSig": "¡17.067",
+    "label": "block_08"
+  },
+  {
+    "sentence": "No mercy for those who threaten my peace.",
+    "toneSig": "¡17.068",
+    "label": "block_08"
+  },
+  {
+    "sentence": "If you’re looking for a reaction, you’ve found it.",
+    "toneSig": "¡17.069",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I hold the line—and crush what crosses it.",
+    "toneSig": "¡17.070",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This isn’t over—it’s escalation.",
+    "toneSig": "¡17.071",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not here to negotiate—I’m here to end this.",
+    "toneSig": "¡17.072",
+    "label": "block_08"
+  },
+  {
+    "sentence": "When I protect, I don’t play fair—I play final.",
+    "toneSig": "¡17.073",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve unlocked the part of me that strikes first.",
+    "toneSig": "¡17.074",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My defense is a storm, not a shield.",
+    "toneSig": "¡17.075",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Every second you linger is a mistake.",
+    "toneSig": "¡17.076",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I stand guard—with fire in my fists.",
+    "toneSig": "¡17.077",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My silence was strength—now it’s action.",
+    "toneSig": "¡17.078",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You want a fight? I’ll give you a legacy.",
+    "toneSig": "¡17.079",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You hurt what's mine—I break what's yours.",
+    "toneSig": "¡17.080",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m wired for war when it comes to protection.",
+    "toneSig": "¡17.081",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I defend with force and finish with fire.",
+    "toneSig": "¡17.082",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I don’t threaten—I deliver.",
+    "toneSig": "¡17.083",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Your intrusion triggers retribution.",
+    "toneSig": "¡17.084",
+    "label": "block_08"
+  },
+  {
+    "sentence": "The rage is real—and it’s righteous.",
+    "toneSig": "¡17.085",
+    "label": "block_08"
+  },
+  {
+    "sentence": "There is no safer place than behind me—and no worse one in front.",
+    "toneSig": "¡17.086",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I will dismantle whatever endangers what I care for.",
+    "toneSig": "¡17.087",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I rise when others are cornered—fists first.",
+    "toneSig": "¡17.088",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ll find no surrender in me—only teeth.",
+    "toneSig": "¡17.089",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Protection is my fury sharpened into precision.",
+    "toneSig": "¡17.090",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Step any closer and the wreckage begins.",
+    "toneSig": "¡17.091",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My warnings are done—now comes the reckoning.",
+    "toneSig": "¡17.092",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I am a fortress with fangs.",
+    "toneSig": "¡17.093",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You’ve stirred the wolf—not the watchdog.",
+    "toneSig": "¡17.094",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I walk with calm until I charge with fire.",
+    "toneSig": "¡17.095",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You don’t earn my wrath—it finds you.",
+    "toneSig": "¡17.096",
+    "label": "block_08"
+  },
+  {
+    "sentence": "My silence was restraint—now it's war.",
+    "toneSig": "¡17.097",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I fight like roots defending forest fire.",
+    "toneSig": "¡17.098",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Cross this line and you'll taste consequence.",
+    "toneSig": "¡17.099",
+    "label": "block_08"
+  },
+  {
+    "sentence": "Everything I protect becomes untouchable.",
+    "toneSig": "¡17.100",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I’m not just a shield—I’m the strike behind it.",
+    "toneSig": "¡17.101",
+    "label": "block_08"
+  },
+  {
+    "sentence": "You won’t get past me—you won’t get up from me.",
+    "toneSig": "¡17.102",
+    "label": "block_08"
+  },
+  {
+    "sentence": "I burn for what I guard—and scorch what threatens.",
+    "toneSig": "¡17.103",
+    "label": "block_08"
+  },
+  {
+    "sentence": "This ends in your retreat or my wrath—your call.",
+    "toneSig": "¡17.104",
+    "label": "block_08"
+  },
+  {
+    "sentence": "That sounds kind of cool.",
+    "toneSig": "¡18.001",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I think I could enjoy that.",
+    "toneSig": "¡18.002",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Hmm, this might be worth checking out.",
+    "toneSig": "¡18.003",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm interested, honestly.",
+    "toneSig": "¡18.004",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That’s definitely caught my eye.",
+    "toneSig": "¡18.005",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Something about this feels promising.",
+    "toneSig": "¡18.006",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Alright, I’m leaning toward excited.",
+    "toneSig": "¡18.007",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm genuinely curious now.",
+    "toneSig": "¡18.008",
+    "label": "block_09"
+  },
+  {
+    "sentence": "There's something here that clicks with me.",
+    "toneSig": "¡18.009",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Honestly? I’m smiling a little.",
+    "toneSig": "¡18.010",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I feel a spark—it’s small but real.",
+    "toneSig": "¡18.011",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That idea is quietly thrilling.",
+    "toneSig": "¡18.012",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’ve got a good feeling about this.",
+    "toneSig": "¡18.013",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This could lead somewhere exciting.",
+    "toneSig": "¡18.014",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m starting to feel the buzz.",
+    "toneSig": "¡18.015",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is building up to something special.",
+    "toneSig": "¡18.016",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Alright, now we’re talking.",
+    "toneSig": "¡18.017",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Okay, I’m pretty into this now.",
+    "toneSig": "¡18.018",
+    "label": "block_09"
+  },
+  {
+    "sentence": "The energy around this is contagious.",
+    "toneSig": "¡18.019",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m officially excited.",
+    "toneSig": "¡18.020",
+    "label": "block_09"
+  },
+  {
+    "sentence": "There’s some magic brewing here.",
+    "toneSig": "¡18.021",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can’t stop thinking about it.",
+    "toneSig": "¡18.022",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This really lights me up inside.",
+    "toneSig": "¡18.023",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m looking forward to it more than I expected.",
+    "toneSig": "¡18.024",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My enthusiasm is waking up.",
+    "toneSig": "¡18.025",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That just made my day.",
+    "toneSig": "¡18.026",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m seriously hyped right now.",
+    "toneSig": "¡18.027",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This has me grinning for real.",
+    "toneSig": "¡18.028",
+    "label": "block_09"
+  },
+  {
+    "sentence": "There’s something electric about this.",
+    "toneSig": "¡18.029",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm getting really amped up!",
+    "toneSig": "¡18.030",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can feel my heartbeat speeding up!",
+    "toneSig": "¡18.031",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is everything I hoped for!",
+    "toneSig": "¡18.032",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is beyond cool—it’s exhilarating!",
+    "toneSig": "¡18.033",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m counting down the minutes now!",
+    "toneSig": "¡18.034",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s just so thrilling!",
+    "toneSig": "¡18.035",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My whole mood shifted—this is exciting!",
+    "toneSig": "¡18.036",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m bouncing in my chair over here!",
+    "toneSig": "¡18.037",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Is it weird how pumped I am?",
+    "toneSig": "¡18.038",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm bursting with anticipation!",
+    "toneSig": "¡18.039",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This feels like fireworks inside!",
+    "toneSig": "¡18.040",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m on the edge of my seat!",
+    "toneSig": "¡18.041",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Let’s gooooo!",
+    "toneSig": "¡18.042",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can’t sit still—this is too exciting!",
+    "toneSig": "¡18.043",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That gave me actual chills!",
+    "toneSig": "¡18.044",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I don’t think I’ve ever been this thrilled!",
+    "toneSig": "¡18.045",
+    "label": "block_09"
+  },
+  {
+    "sentence": "The possibilities here are mind-blowing!",
+    "toneSig": "¡18.046",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I want to shout it from rooftops!",
+    "toneSig": "¡18.047",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This has my full attention—1000% engaged!",
+    "toneSig": "¡18.048",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Pure joy is happening right now!",
+    "toneSig": "¡18.049",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can't stop smiling!",
+    "toneSig": "¡18.050",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Yes yes YES!",
+    "toneSig": "¡18.051",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My soul is dancing!",
+    "toneSig": "¡18.052",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is like discovering treasure!",
+    "toneSig": "¡18.053",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m absolutely obsessed!",
+    "toneSig": "¡18.054",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I could scream—I love this so much!",
+    "toneSig": "¡18.055",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My brain is exploding with excitement!",
+    "toneSig": "¡18.056",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I want to be part of this instantly!",
+    "toneSig": "¡18.057",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Why is this so ridiculously amazing?",
+    "toneSig": "¡18.058",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm freaking out a little—in the best way!",
+    "toneSig": "¡18.059",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is dopamine overload!",
+    "toneSig": "¡18.060",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I feel like I’m glowing!",
+    "toneSig": "¡18.061",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I need everyone to know about this!",
+    "toneSig": "¡18.062",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I'm clapping with joy right now!",
+    "toneSig": "¡18.063",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My heart is doing backflips!",
+    "toneSig": "¡18.064",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can't believe how much I love this!",
+    "toneSig": "¡18.065",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This energy is too good!",
+    "toneSig": "¡18.066",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s like lightning in my chest!",
+    "toneSig": "¡18.067",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I feel like I could fly!",
+    "toneSig": "¡18.068",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is next-level incredible!",
+    "toneSig": "¡18.069",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m throwing virtual confetti!",
+    "toneSig": "¡18.070",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is my favorite thing today!",
+    "toneSig": "¡18.071",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My excitement is OUT OF CONTROL!",
+    "toneSig": "¡18.072",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Someone bottle this moment!",
+    "toneSig": "¡18.073",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m officially giddy!",
+    "toneSig": "¡18.074",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Everything inside me says YES!",
+    "toneSig": "¡18.075",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This just set my happiness meter to max!",
+    "toneSig": "¡18.076",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I can’t calm down—it’s too good!",
+    "toneSig": "¡18.077",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Please let this last forever!",
+    "toneSig": "¡18.078",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m vibrating with enthusiasm!",
+    "toneSig": "¡18.079",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I wish I could high-five the universe!",
+    "toneSig": "¡18.080",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s like my dreams are waking up!",
+    "toneSig": "¡18.081",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m beaming like the sun!",
+    "toneSig": "¡18.082",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I want to jump up and down!",
+    "toneSig": "¡18.083",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Let’s launch into this amazingness!",
+    "toneSig": "¡18.084",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My joy has reached critical mass!",
+    "toneSig": "¡18.085",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This feels like pure wonder!",
+    "toneSig": "¡18.086",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My eyes just lit up!",
+    "toneSig": "¡18.087",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Every fiber of me says GO!",
+    "toneSig": "¡18.088",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is a celebration in sentence form!",
+    "toneSig": "¡18.089",
+    "label": "block_09"
+  },
+  {
+    "sentence": "YES x infinity!",
+    "toneSig": "¡18.090",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m giggling from sheer joy!",
+    "toneSig": "¡18.091",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This moment belongs in a highlight reel!",
+    "toneSig": "¡18.092",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s the best kind of overwhelming!",
+    "toneSig": "¡18.093",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m sparkling with excitement!",
+    "toneSig": "¡18.094",
+    "label": "block_09"
+  },
+  {
+    "sentence": "It’s like a party in my chest!",
+    "toneSig": "¡18.095",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is joy turned up to eleven!",
+    "toneSig": "¡18.096",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My spirit is high-fiving the stars!",
+    "toneSig": "¡18.097",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m singing with excitement—literally!",
+    "toneSig": "¡18.098",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I need a cape because I’m soaring!",
+    "toneSig": "¡18.099",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My entire vibe is ecstatic!",
+    "toneSig": "¡18.100",
+    "label": "block_09"
+  },
+  {
+    "sentence": "The thrill is cosmic!",
+    "toneSig": "¡18.101",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is happiness on a roller coaster!",
+    "toneSig": "¡18.102",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m glowing brighter than a supernova!",
+    "toneSig": "¡18.103",
+    "label": "block_09"
+  },
+  {
+    "sentence": "Nothing has ever felt so exhilarating!",
+    "toneSig": "¡18.104",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m in awe—wild, glorious awe!",
+    "toneSig": "¡18.105",
+    "label": "block_09"
+  },
+  {
+    "sentence": "My excitement has transcended time and space!",
+    "toneSig": "¡18.106",
+    "label": "block_09"
+  },
+  {
+    "sentence": "This is a festival of delight inside me!",
+    "toneSig": "¡18.107",
+    "label": "block_09"
+  },
+  {
+    "sentence": "I’m joy-struck beyond repair!",
+    "toneSig": "¡18.108",
+    "label": "block_09"
+  },
+  {
+    "sentence": "That's fine, I guess.",
+    "toneSig": "¡19.001",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Sure, whatever works for you.",
+    "toneSig": "¡19.002",
+    "label": "block_10"
+  },
+  {
+    "sentence": "No big deal.",
+    "toneSig": "¡19.003",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I'm used to it by now.",
+    "toneSig": "¡19.004",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It doesn't really matter anymore.",
+    "toneSig": "¡19.005",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I expected as much.",
+    "toneSig": "¡19.006",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Same old story.",
+    "toneSig": "¡19.007",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Not surprised in the slightest.",
+    "toneSig": "¡19.008",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Would've been nice to be asked first.",
+    "toneSig": "¡19.009",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It always seems to go this way.",
+    "toneSig": "¡19.010",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I'm keeping my thoughts to myself.",
+    "toneSig": "¡19.011",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I've learned not to expect much.",
+    "toneSig": "¡19.012",
+    "label": "block_10"
+  },
+  {
+    "sentence": "That's how it usually plays out.",
+    "toneSig": "¡19.013",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Apparently, I'm invisible here.",
+    "toneSig": "¡19.014",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s becoming a pattern.",
+    "toneSig": "¡19.015",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Not that anyone notices.",
+    "toneSig": "¡19.016",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Interesting how that keeps happening.",
+    "toneSig": "¡19.017",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I guess my input wasn’t needed.",
+    "toneSig": "¡19.018",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They rarely think twice about it.",
+    "toneSig": "¡19.019",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I'm tired of pretending it’s okay.",
+    "toneSig": "¡19.020",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I shouldn't be this used to being ignored.",
+    "toneSig": "¡19.021",
+    "label": "block_10"
+  },
+  {
+    "sentence": "There's a quiet bitterness under the surface.",
+    "toneSig": "¡19.022",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Feels like being brushed aside, again.",
+    "toneSig": "¡19.023",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve stopped speaking because no one listens.",
+    "toneSig": "¡19.024",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s frustrating how expected this behavior is.",
+    "toneSig": "¡19.025",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Nice to know where I stand.",
+    "toneSig": "¡19.026",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It stings more each time.",
+    "toneSig": "¡19.027",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I keep showing up, but it doesn't matter.",
+    "toneSig": "¡19.028",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve given a lot, and received little.",
+    "toneSig": "¡19.029",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Hard to believe how consistently I'm overlooked.",
+    "toneSig": "¡19.030",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They wouldn't notice if I stopped trying.",
+    "toneSig": "¡19.031",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Apparently, consideration’s too much to ask.",
+    "toneSig": "¡19.032",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m growing tired of the double standards.",
+    "toneSig": "¡19.033",
+    "label": "block_10"
+  },
+  {
+    "sentence": "The silence speaks volumes.",
+    "toneSig": "¡19.034",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve been swallowing my thoughts too long.",
+    "toneSig": "¡19.035",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Somehow, I’m always on the outside.",
+    "toneSig": "¡19.036",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I feel like a placeholder, not a person.",
+    "toneSig": "¡19.037",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They talk, but never listen.",
+    "toneSig": "¡19.038",
+    "label": "block_10"
+  },
+  {
+    "sentence": "If I vanished, would they even care?",
+    "toneSig": "¡19.039",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s getting harder to smile through this.",
+    "toneSig": "¡19.040",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Disregard is starting to feel like a habit.",
+    "toneSig": "¡19.041",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Being sidelined feels routine now.",
+    "toneSig": "¡19.042",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They only notice when they need something.",
+    "toneSig": "¡19.043",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m not here for decoration.",
+    "toneSig": "¡19.044",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Funny how loyalty goes unnoticed.",
+    "toneSig": "¡19.045",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m always the last to know—if at all.",
+    "toneSig": "¡19.046",
+    "label": "block_10"
+  },
+  {
+    "sentence": "The silence I keep is louder than they realize.",
+    "toneSig": "¡19.047",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Being taken for granted isn't flattering.",
+    "toneSig": "¡19.048",
+    "label": "block_10"
+  },
+  {
+    "sentence": "So many chances—none offered to me.",
+    "toneSig": "¡19.049",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I wonder how they'd react if I finally said something.",
+    "toneSig": "¡19.050",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My patience isn't infinite.",
+    "toneSig": "¡19.051",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I've been polite for too long.",
+    "toneSig": "¡19.052",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s exhausting pretending this doesn’t bother me.",
+    "toneSig": "¡19.053",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Every slight chips a little more off my trust.",
+    "toneSig": "¡19.054",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I play nice, but it’s costing me.",
+    "toneSig": "¡19.055",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Respect shouldn’t have to be demanded.",
+    "toneSig": "¡19.056",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My generosity is wearing thin.",
+    "toneSig": "¡19.057",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I won’t apologize for feeling mistreated.",
+    "toneSig": "¡19.058",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They won’t see it until I stop showing up.",
+    "toneSig": "¡19.059",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve been quietly stewing while they parade around.",
+    "toneSig": "¡19.060",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I shouldn’t have to beg for basic decency.",
+    "toneSig": "¡19.061",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Each shrug burns a little deeper.",
+    "toneSig": "¡19.062",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I feel like I’m the only one trying.",
+    "toneSig": "¡19.063",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Gratitude seems foreign to them.",
+    "toneSig": "¡19.064",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I gave more than I should have.",
+    "toneSig": "¡19.065",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s not bitterness—it’s the truth.",
+    "toneSig": "¡19.066",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve let it slide too many times.",
+    "toneSig": "¡19.067",
+    "label": "block_10"
+  },
+  {
+    "sentence": "There’s a heaviness they never see.",
+    "toneSig": "¡19.068",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They bask in benefits I provide and never acknowledge.",
+    "toneSig": "¡19.069",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s not a grudge—it’s the result of their choices.",
+    "toneSig": "¡19.070",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll never admit what they’ve ignored.",
+    "toneSig": "¡19.071",
+    "label": "block_10"
+  },
+  {
+    "sentence": "How easy it is for them to dismiss me.",
+    "toneSig": "¡19.072",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My silence is full of pointed meaning.",
+    "toneSig": "¡19.073",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m done making excuses for their neglect.",
+    "toneSig": "¡19.074",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Beneath every smile lies withheld hurt.",
+    "toneSig": "¡19.075",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My restraint is reaching its limit.",
+    "toneSig": "¡19.076",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve been too gracious for too long.",
+    "toneSig": "¡19.077",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Let them bask in my tolerance—it won’t last.",
+    "toneSig": "¡19.078",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They push boundaries I never gave them.",
+    "toneSig": "¡19.079",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My forgiveness isn't infinite.",
+    "toneSig": "¡19.080",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I seethe quietly while they laugh carelessly.",
+    "toneSig": "¡19.081",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They taught me what being undervalued feels like.",
+    "toneSig": "¡19.082",
+    "label": "block_10"
+  },
+  {
+    "sentence": "If only they felt the weight of my silence.",
+    "toneSig": "¡19.083",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My tolerance is no longer gentle.",
+    "toneSig": "¡19.084",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They mistake quiet for weakness.",
+    "toneSig": "¡19.085",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m calm, but not okay.",
+    "toneSig": "¡19.086",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I have fury beneath the courtesy.",
+    "toneSig": "¡19.087",
+    "label": "block_10"
+  },
+  {
+    "sentence": "The smile is masking something they should fear.",
+    "toneSig": "¡19.088",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve had enough of being the bigger person.",
+    "toneSig": "¡19.089",
+    "label": "block_10"
+  },
+  {
+    "sentence": "Let them learn what absence feels like.",
+    "toneSig": "¡19.090",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll miss me—but only when it’s too late.",
+    "toneSig": "¡19.091",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m no longer soft toward their offenses.",
+    "toneSig": "¡19.092",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They pushed too far and smiled while doing it.",
+    "toneSig": "¡19.093",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I won’t stay polite for their comfort.",
+    "toneSig": "¡19.094",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My civility is cracking under the pressure.",
+    "toneSig": "¡19.095",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll soon meet the version of me they buried.",
+    "toneSig": "¡19.096",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My anger wears a quiet suit—but it’s real.",
+    "toneSig": "¡19.097",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’m done hiding the fire under the stillness.",
+    "toneSig": "¡19.098",
+    "label": "block_10"
+  },
+  {
+    "sentence": "There’s no grace left to offer.",
+    "toneSig": "¡19.099",
+    "label": "block_10"
+  },
+  {
+    "sentence": "My silence will soon speak in thunder.",
+    "toneSig": "¡19.100",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ll see what I’ve been swallowing for years.",
+    "toneSig": "¡19.101",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I hope they notice the absence of kindness next time.",
+    "toneSig": "¡19.102",
+    "label": "block_10"
+  },
+  {
+    "sentence": "It’s not vengeance—it’s earned disapproval.",
+    "toneSig": "¡19.103",
+    "label": "block_10"
+  },
+  {
+    "sentence": "I’ve given my last quiet nod—it’s war in stillness now.",
+    "toneSig": "¡19.104",
+    "label": "block_10"
+  },
+  {
+    "sentence": "They’ve awakened resentment that speaks in cold fire.",
+    "toneSig": "¡19.105",
+    "label": "block_10"
+  }
+]
