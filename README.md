@@ -1,10 +1,20 @@
 # Reflex-Aware Chat Engine Demo
 
-This repository contains a deterministic, local-only demo of a reflex-aware conversational pipeline in two interfaces: a Node/TypeScript terminal REPL and a React/Vite web UI. Both surfaces share the same core reflex, hinting, governance, and reply-generation logic so behavior stays aligned across environments.
+**Live demo:** https://putmanmodel.github.io/reflex_aware_chat_engine_demo/
+
+## What this demonstrates
+- A lightweight governance primitive that can sit in front of an LLM or NPC dialogue system.
+- Real-time tone tagging → reflex deviation score → governance mode selection
+- Deterministic replay via seed + downloadable run logs
+- Same shared core logic across Terminal + React
+
+This repository contains a deterministic, local-only demo of a reflex-aware conversational pipeline in two interfaces: a Node/TypeScript terminal interface and a React/Vite web UI. Both surfaces share the same core reflex, hinting, governance, and reply-generation logic so behavior stays aligned across environments.
 
 The system tags user text against a reference dataset (with deterministic heuristic fallback), computes reflex dynamics over recent scalar history, applies mode governance, and generates rule-based replies. No external APIs or LLM calls are required.
 
 ## Quickstart: Terminal Demo
+
+Requires Node.js 18+ (20 recommended).
 
 ```bash
 cd terminal
