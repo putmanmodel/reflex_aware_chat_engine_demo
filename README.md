@@ -7,7 +7,7 @@ The system tags user text against a reference dataset (with deterministic heuris
 ## Quickstart: Terminal Demo
 
 ```bash
-cd /Users/stephenaputmanjr/Desktop/reflex_aware_chat_engine_demo/terminal
+cd terminal
 npm install
 npm run dev
 ```
@@ -15,7 +15,7 @@ npm run dev
 ## Quickstart: React Demo
 
 ```bash
-cd /Users/stephenaputmanjr/Desktop/reflex_aware_chat_engine_demo/react
+cd react
 npm install
 npm run dev
 ```
@@ -29,8 +29,8 @@ npm run dev
 
 ## License
 
-Copyright (c) 2026 Stephen A. Putman
+This project is licensed under **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.
+See `LICENSE`.
 
-Licensed under the terms in the `LICENSE` file.
-
+Copyright (c) 2026 Stephen A. Putman  
 Contact: putmanmodel@pm.me
