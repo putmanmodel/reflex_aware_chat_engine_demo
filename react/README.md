@@ -3,7 +3,7 @@
 ## Run
 
 ```bash
-cd /Users/stephenaputmanjr/Desktop/reflex_aware_chat_engine_demo/react
+cd react
 npm install
 npm run dev
 ```
@@ -23,3 +23,7 @@ VITE_DISPLAY_PREFIX=XX npm run dev
 ```
 
 This only changes rendered tag prefix in the UI. Scalar parsing and dataset source tags remain unchanged.
+
+## License
+
+This demo is covered by the repository root license. See ../LICENSE.
