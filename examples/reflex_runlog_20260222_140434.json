@@ -1,0 +1,163 @@
+[
+  {
+    "timestampMs": 1771787070832,
+    "userText": "I think we might need to address this soon.",
+    "tagResult": {
+      "tag": "¡10.000",
+      "scalar": 10,
+      "confidence": 1,
+      "polarity": "UNK",
+      "rationale": "dataset:block_01"
+    },
+    "reflexResult": {
+      "baseline": 10,
+      "diff": 0,
+      "reflexScoreRaw": 0,
+      "reflexScoreAdjusted": 0,
+      "isSpike": false,
+      "isHardSpike": false,
+      "trend": 0
+    },
+    "modeBeforeOverride": "EMPATHETIC",
+    "modeAfterOverride": "EMPATHETIC",
+    "constraints": [],
+    "seedUsed": null,
+    "templateId": "EMPATHETIC_4",
+    "aiReply": "I am with you on this. What would be most helpful to address first?",
+    "historyScalarsSnapshot": [
+      10
+    ]
+  },
+  {
+    "timestampMs": 1771787071137,
+    "userText": "I am furious and everything is breaking.",
+    "tagResult": {
+      "tag": "¡35.785",
+      "scalar": 35.785,
+      "confidence": 0.75,
+      "polarity": "NEG",
+      "rationale": "anger language detected"
+    },
+    "reflexResult": {
+      "baseline": 10,
+      "diff": 25.784999999999997,
+      "reflexScoreRaw": 1,
+      "reflexScoreAdjusted": 1,
+      "isSpike": true,
+      "isHardSpike": true,
+      "trend": 25.784999999999997
+    },
+    "modeBeforeOverride": "DEESCALATE",
+    "modeAfterOverride": "DEESCALATE",
+    "constraints": [
+      "lower intensity, increase grounding"
+    ],
+    "seedUsed": null,
+    "templateId": "DEESCALATE_1",
+    "aiReply": "Let’s slow this down and take one steady breath. We can focus on immediate safety first or sort the facts step by step. Which option feels better right now?",
+    "historyScalarsSnapshot": [
+      10,
+      35.785
+    ]
+  },
+  {
+    "timestampMs": 1771787071439,
+    "userText": "I am fine but not fine.",
+    "tagResult": {
+      "tag": "¡31.021",
+      "scalar": 31.021,
+      "confidence": 0.78,
+      "polarity": "MIX",
+      "rationale": "mixed signal contradiction"
+    },
+    "reflexResult": {
+      "baseline": 13.86775,
+      "diff": 17.15325,
+      "reflexScoreRaw": 1,
+      "reflexScoreAdjusted": 1,
+      "isSpike": true,
+      "isHardSpike": true,
+      "trend": 17.15325
+    },
+    "modeBeforeOverride": "DEESCALATE",
+    "modeAfterOverride": "DEESCALATE",
+    "constraints": [
+      "lower intensity, increase grounding"
+    ],
+    "seedUsed": null,
+    "templateId": "DEESCALATE_1",
+    "aiReply": "Let’s slow this down and take one steady breath. We can focus on immediate safety first or sort the facts step by step. Which option feels better right now?",
+    "historyScalarsSnapshot": [
+      10,
+      35.785,
+      31.021
+    ]
+  },
+  {
+    "timestampMs": 1771787071741,
+    "userText": "Let’s slow down and take this step by step.",
+    "tagResult": {
+      "tag": "¡18.127",
+      "scalar": 18.127,
+      "confidence": 0.45,
+      "polarity": "UNK",
+      "rationale": "general ambiguity"
+    },
+    "reflexResult": {
+      "baseline": 17.388025,
+      "diff": 0.7389749999999999,
+      "reflexScoreRaw": 0.06158125,
+      "reflexScoreAdjusted": 0.06158125,
+      "isSpike": false,
+      "isHardSpike": false,
+      "trend": 0.7389749999999999
+    },
+    "modeBeforeOverride": "EMPATHETIC",
+    "modeAfterOverride": "EMPATHETIC",
+    "constraints": [],
+    "seedUsed": null,
+    "templateId": "EMPATHETIC_4",
+    "aiReply": "I am with you on this. What would be most helpful to address first?",
+    "historyScalarsSnapshot": [
+      10,
+      35.785,
+      31.021,
+      18.127
+    ]
+  },
+  {
+    "timestampMs": 1771787072042,
+    "userText": "Thanks, I appreciate the help and I feel calmer now.",
+    "tagResult": {
+      "tag": "¡12.724",
+      "scalar": 12.724,
+      "confidence": 0.65,
+      "polarity": "POS",
+      "rationale": "gratitude cues detected"
+    },
+    "reflexResult": {
+      "baseline": 19.291592499999997,
+      "diff": 6.567592499999996,
+      "reflexScoreRaw": 0.5472993749999997,
+      "reflexScoreAdjusted": 0.3831095624999998,
+      "isSpike": false,
+      "isHardSpike": false,
+      "trend": -6.567592499999996
+    },
+    "modeBeforeOverride": "PROBING",
+    "modeAfterOverride": "PROBING",
+    "constraints": [
+      "confirm recovery, avoid re-spike"
+    ],
+    "seedUsed": null,
+    "templateId": "PROBING_1",
+    "aiReply": "You seem to be finding a steadier footing. What would help you keep that momentum right now?",
+    "historyScalarsSnapshot": [
+      10,
+      35.785,
+      31.021,
+      18.127,
+      12.724
+    ]
+  }
+]
