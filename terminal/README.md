@@ -3,7 +3,7 @@
 ## Install and run
 
 ```bash
-cd /Users/stephenaputmanjr/Desktop/reflex_aware_chat_engine_demo/terminal
+cd terminal
 npm install
 npm test
 npm run dev
